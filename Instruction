@@ -1,0 +1,8 @@
+gavxsnat gitbash
+shesvla foldershi (cd brdzanebis gamoyenebit)
+git init
+git remote add origin <repositoriss linki>
+git add .
+git commit -m "rame mesiji"
+git branch -M main
+git push -u origin main
