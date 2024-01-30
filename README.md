@@ -16,3 +16,5 @@ im kompze es commandi gavushva cmd administratorit da chavsva es brdzaneba:<br>
 
 
 https://stackoverflow.com/questions/46941346/how-to-know-the-git-username-and-email-saved-during-configuration<br>
+
+https://github.com/orgs/community/discussions/29405 <br>
